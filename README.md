@@ -39,19 +39,3 @@ TODO
 ```shell
 npx hardhat etherscan-verify --network rinkeby
 ```
-
-## 4. Launch your project
-TODO
-
-## 4. Reveal metadata of the NFTs
-TODO
-
-# Blueprint
-To define your traits, their rarity, constraints and dependencies you need provide provide a blueprint in `blueprint.config.json`.
-You can copy a basic example from `blueprint.config.json.dist`.
-
-## Structure
-TODO: explain each property and supported capabilities of blueprint (settings, traits, variations, constraints).
-
-## Automatic Generation
-TODO: explain how to automatically generate a blueprint based on a specific convention on asset file names
